@@ -1,4 +1,4 @@
-# search_hithub_users
+# search_github_users
 
 This is a description of the project.
 
